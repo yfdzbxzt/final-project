@@ -1,0 +1,34 @@
+{
+    "pages": [
+        "pages/index/index",
+        "pages/menu/menu",
+        "pages/person/person"
+    ],
+    "window": {
+        "navigationBarBackgroundColor": "#1dfe71",
+        "navigationBarTitleText": "雅枫装修",
+        "navigationBarTextStyle": "black"
+    },
+    "tabBar": {
+        "list": [{
+            "pagePath": "pages/index/index",
+            "text": "首页",
+            "iconPath": "/pages/image/6.jpg",
+            "selectedIconPath": "/pages/image/6_1.jpg"
+        },
+        {
+            "pagePath": "pages/menu/menu",
+            "text": "装修攻略",
+            "iconPath": "/pages/image/7.png",
+            "selectedIconPath": "/pages/image/7_1.png"
+        },
+        {
+            "pagePath": "pages/person/person",
+            "text": "我的",
+            "iconPath": "/pages/image/5.jpg",
+            "selectedIconPath": "/pages/image/5_1.jpg"
+        }
+    ]},
+    "lazyCodeLoading": "requiredComponents",
+    "sitemapLocation": "sitemap.json"
+}
