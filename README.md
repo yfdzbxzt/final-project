@@ -19,3 +19,13 @@ Tips:
 - 提交 pr 前建议先 **同步上游分支** ，如果没有冲突，再提交的话就不会有问题
 
 ![](https://s1.328888.xyz/2022/05/22/dwrrm.png)
+
+## 提交作业简易流程
+
+![](https://s1.328888.xyz/2022/05/24/lLBdy.png)
+![](https://s1.328888.xyz/2022/05/24/lXUR3.png)
+![](https://s1.328888.xyz/2022/05/24/lXyLB.png)
+![](https://s1.328888.xyz/2022/05/24/lXgb2.png)
+![](https://s1.328888.xyz/2022/05/24/lX861.png)
+![](https://s1.328888.xyz/2022/05/24/lXDyq.png)
+![](https://s1.328888.xyz/2022/05/24/lXddP.png)
